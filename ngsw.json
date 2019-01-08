@@ -1,0 +1,71 @@
+{
+  "configVersion": 1,
+  "index": "https://corentinhcd.github.io/siteAngular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://corentinhcd.github.io/siteAngular/4.4cf44a6a43a0640dd3d8.js",
+        "https://corentinhcd.github.io/siteAngular/favicon.ico",
+        "https://corentinhcd.github.io/siteAngular/index.html",
+        "https://corentinhcd.github.io/siteAngular/main.c09cae7e1a0aa410df4c.js",
+        "https://corentinhcd.github.io/siteAngular/polyfills.f9460e8d96740763e721.js",
+        "https://corentinhcd.github.io/siteAngular/runtime.6cc5b110eeebef6008ff.js",
+        "https://corentinhcd.github.io/siteAngular/scripts.bf7dc47ab7b004ef1d45.js",
+        "https://corentinhcd.github.io/siteAngular/styles.4e6457e06d311de18164.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://corentinhcd.github.io/siteAngular/assets/QanelasSoft-ExtraBold.otf",
+        "https://corentinhcd.github.io/siteAngular/assets/QanelasSoft-UltraLight.otf",
+        "https://corentinhcd.github.io/siteAngular/assets/img/background_en.svg",
+        "https://corentinhcd.github.io/siteAngular/assets/img/background_fr.svg",
+        "https://corentinhcd.github.io/siteAngular/assets/img/souris.svg",
+        "https://corentinhcd.github.io/siteAngular/assets/ngx-rocket-logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://corentinhcd.github.io/siteAngular/4.4cf44a6a43a0640dd3d8.js": "38b33bafa58ef3782b4a713af23b4c4968f4d298",
+    "https://corentinhcd.github.io/siteAngular/assets/QanelasSoft-ExtraBold.otf": "431f7f9cf2ac5ef2c145de47e8b7e7f1ed5d02c9",
+    "https://corentinhcd.github.io/siteAngular/assets/QanelasSoft-UltraLight.otf": "e9ca1d3381f9a6aa65635d65c0d8d2197921139b",
+    "https://corentinhcd.github.io/siteAngular/assets/img/background_en.svg": "cb098bdbf3d2406dcd378781d7d1192e47e02edb",
+    "https://corentinhcd.github.io/siteAngular/assets/img/background_fr.svg": "79c2bdcbe5f235fd75cd989078f48af93dcf6691",
+    "https://corentinhcd.github.io/siteAngular/assets/img/souris.svg": "56bd0a46f0c655c04f7d2d0dad7d0980d59c941a",
+    "https://corentinhcd.github.io/siteAngular/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://corentinhcd.github.io/siteAngular/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://corentinhcd.github.io/siteAngular/index.html": "a41598ecf7e0b6c93545cec0a4b1b8d6244addb4",
+    "https://corentinhcd.github.io/siteAngular/main.c09cae7e1a0aa410df4c.js": "65dd4ed229262dba204557f64ad47b587075c397",
+    "https://corentinhcd.github.io/siteAngular/polyfills.f9460e8d96740763e721.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://corentinhcd.github.io/siteAngular/runtime.6cc5b110eeebef6008ff.js": "a0671d13f06fb20913e23533df24698009ad1dec",
+    "https://corentinhcd.github.io/siteAngular/scripts.bf7dc47ab7b004ef1d45.js": "312ead42c77c28a3b158d88d9be9750c96b4753c",
+    "https://corentinhcd.github.io/siteAngular/styles.4e6457e06d311de18164.css": "5c22a5abfdcaefc34bd3dab203576534875e5315"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
